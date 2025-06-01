@@ -24,6 +24,12 @@ cd people-detector
 
 2. Install dependencies:
 ```bash
+pip install -r requirements.txt
+```
+
+or
+
+```bash
 pip install opencv-python ultralytics
 ```
 
