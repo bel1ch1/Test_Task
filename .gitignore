@@ -3,3 +3,9 @@ __pycache__
 .__pycache__
 *.pt
 /*.pt
+venv
+.venv
+/venv
+env
+.env
+/env
